@@ -6,7 +6,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🙋‍♂️ Hi, I’m @luanfgoncalves (the "f" stand for Filipe).
+- 🙋‍♂️ Hi, I’m @luanfgoncalves .
 - 📚 I'm a former psychologist, looking to change my work area.
 - 💭 My curent interests include Web devopment, cyber security and automation.
 - 🌱 As a beginner Dev, currently learning JS, CSS and HTML.
