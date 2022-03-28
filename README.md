@@ -6,13 +6,12 @@
 Here are some ideas to get you started: 
 -->
 
-- 🙋‍♂️ Hi, I’m @luanfgoncalves .
-- 📚 I'm a former psychologist, looking to change my work area.
-- 💭 My curent interests include Web devopment, cyber security and automation.
-- 🌱 As a beginner Dev, currently learning JS, CSS and HTML.
-- 🧑🏻‍💻 By now I’m looking to learn and collaborate on anything I can.
-- 📬 You can reach me on [Linkedin](https://www.linkedin.com/in/luanfgoncalves/) or through my <a href="https://www.linkedin.com/in/luanfgoncalves/"> linkedin2</a>
-Also you can try <a href="https://linkedin.com/in/luanfgoncalves/" target="_blank"> Likedin3</a>
-- ⚡ Fun fact: I first learned HTML as a child in order to create a community on Neopets. I lost my account, but I think my community and my hungry neopets are still out there.
+- 🙋‍♂️ Oi, meu nome é Luan Filipe - @luanfgoncalves .
+- 📚 Eu vim da psicologia, e estou mudando de area estudande com/pela Trybe.
+- 💭 Meus interesses atuais incluem Desenvolvimento Web, Cyber Segurança e Automação.
+- 🌱 Como um desenvolvedor em formação eu estou aprendendo JS, CSS and HTML atualmente.
+- 📬 Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/luanfgoncalves/) ou falar comigo através do meu [e-mail](https://luanfgoncalves@gmail.com)  
+- ⚡ Fun fact: Meu primeiro contato com HTML foi aos 9 anos, para criar comunidade no NeoPets. Eu perdi minha conta, mas acredito que minha comunidade e meus neopets famintos continuam por ai.
+
 <!-- programa ; programação ; desenvolvimento ; javascript ; php ; python ; Typescript ; C# ; C++ ; Linux ; Blade ; HCL ; Elixir ; Java ; xhtml ; sudo ; web3 ; web 3.0 ; Crypto ; development ; bilingual ; home office ; stackoverflow .
 -->
