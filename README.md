@@ -6,7 +6,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🙋‍♂️ Oi, meu nome é Luan Filipe - @luanfgoncalves .
+- 🙋‍♂️ Meu nome é Luan Filipe - @luanfgoncalves .
 - 📚 Eu vim da psicologia, e estou mudando de area estudande com/pela Trybe.
 - 💭 Meus interesses atuais incluem Desenvolvimento Web, Cyber Segurança e Automação.
 - 🌱 Como um desenvolvedor em formação eu estou aprendendo JS, CSS and HTML atualmente.
