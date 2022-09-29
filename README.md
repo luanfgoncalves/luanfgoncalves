@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🌱 Como um desenvolvedor em formação eu estou aprendendo JS, CSS and HTML atualmente.
 - 📬 Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/luanfgoncalves/) ou falar comigo através do meu [e-mail](https://luanfgoncalves@gmail.com)
 
-<!-- programação ; desenvolvimento ; programer ; development ; dev ; webdeveloper; webdev; html ; css ; javascript ; JS ; python ; py ; Typescript ; ts ; Linux ; docker ; sql ; sudo ; web3 ; web 3.0 ; ; bilingual ; home office ; stackoverflow ; .
+<!-- programação ; desenvolvimento ; development ; dev ; webdeveloper; webdev; html ; css ; javascript ; JS ; python ; py ; Typescript ; ts ; Linux ; react ; redux ; context ; contextApi ; docker ; sql ; mysql ; nodeJS ; frontend ; backend ; fullstack ; bilingual ; home office ; stackoverflow ; .
 -->
