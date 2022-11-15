@@ -36,7 +36,9 @@ Hi, I'm Luan Filipe.
 	</a>
 </div>
 
-## <div>
+##
+	  
+<div>
 	<h2 align="center">
 		My Soft Skills
 		<img src="https://cdn-icons-png.flaticon.com/512/2420/2420518.png" width="30px" height="30px">
