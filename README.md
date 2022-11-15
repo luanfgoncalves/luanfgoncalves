@@ -5,7 +5,7 @@ Hi, I'm Luan Filipe.
 <img src="https://cdn-icons-png.flaticon.com/512/5038/5038593.png" width="30px" height="30px">
 </h1>
 
-<h3 align="center">I'm a brazilian Full Stack Web Developer passionate about technology!</h3>
+<h2 align="center">I'm a brazilian Full Stack Web Developer passionate about technology!</h2>
 
 ##
 
@@ -39,10 +39,10 @@ Hi, I'm Luan Filipe.
 ## 
 
 <div>
-	<h3 align="center">
+	<h2 align="center">
 		My Soft Skills
 		<img src="https://cdn-icons-png.flaticon.com/512/2420/2420518.png" width="30px" height="30px">
-	<h3>
+	<h2>
 	<h4 align="center">Ethic, Resilience, Collaboration, Non-Agressive Communication, Creativity, Time Management, Active listening, Argumentation<h4>
 	I like to deal with people and understand their motivations, develop lasting solutions to problems, find ways to optimize and automate processes, give a beautiful aesthetic to what I produce and one of my greatest satisfactions is fixing and improving things.
 </div>
