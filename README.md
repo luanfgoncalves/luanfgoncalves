@@ -17,9 +17,9 @@ Hi, I'm Luan Filipe.
 
   <details>
     <summary>
-	<h4 align="center">My Technical Skills
+	<h2 align="center">My Technical Skills
 	<img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="30px" height="30px">
-	</h4>
+	</h2>
 	</summary>
 <div id='lojc' align="center">
 
