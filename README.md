@@ -4,7 +4,8 @@
   Hi, I'm Luan Filipe.
   <img src="https://cdn-icons-png.flaticon.com/512/5038/5038593.png" width="30px" height="30px">
 </h1>
-<h2 align="center">I'm a brazilian Full Stack Web Developer passionate about technology!</h2>
+
+## I'm a brazilian Full Stack Web Developer passionate about technology!
 </div>
 
 <!-- Minhas Tecnologias -->
@@ -26,9 +27,9 @@
 <!-- Minhas Habilidades Técnicas -->
 <details align="center">
   <summary>
-	  <h2>My Technical Skills
-	    <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="30px" height="30px">
-    </h2>
+	  <h3>My Technical Skills
+	    <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20px" height="20px">
+    </h3>
 	</summary>
 
 | Languages  | Frameworks | Technologies | Tools | 
@@ -40,9 +41,9 @@
 <!-- Meus softskills -->
 <details align="center">
   <summary>
-	  <h2>My Soft Skills
-	    <img src="https://cdn-icons-png.flaticon.com/512/2420/2420518.png" width="30px" height="30px">
-    </h2>
+	  <h3>My Soft Skills
+	    <img src="https://cdn-icons-png.flaticon.com/512/2420/2420518.png" width="20px" height="20px">
+    </h3>
 	</summary>
 	<h3 align="center">Ethic🔸 Resilience🔸 Collaboration🔸 Non-Agressive Communication🔸 Creativity🔸 Time Management🔸 Active listening🔸 Argumentation<h4>
 	<h4 align="center">I like to deal with people and understand their motivations, develop lasting solutions to problems, find ways to optimize and automate processes, give a beautiful aesthetic to what I produce and one of my greatest satisfactions is fixing and improving things.
@@ -51,7 +52,7 @@
 
 #
 <!-- Meu contato -->
-## Connect with me:
+### Connect with me:
 <div align="center">
   <a href="https://instagram.com/luanfgoncalves" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="50px" height="50px" target="_blank"></a>
   <a href ="mailto:luanfgoncalves@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" width="50px" height="50px" target="_blank"></a>
