@@ -6,7 +6,7 @@
 </h1>
 
 <h4>
-I'm a brazilian Full Stack Web Developer passionate about technology! Hello! I'm studying and experiencing with JS, CSS, HTML, Ract, Redux, Docker, SQL and NodeJS and several other thecnologies. 
+I'm a brazilian Full Stack Web Developer passionate about technology! I'm studying and experiencing with JS, TS, RactJS, Redux, Docker, SQL , NodeJS and several other thecnologies. 
 <p> </p>
 I like to deal with people and understand their motivations, develop lasting solutions to problems, find ways to optimize and automate processes, give a beautiful aesthetic to what I produce and one of my greatest satisfactions is fixing and improving things.
 </h4>
