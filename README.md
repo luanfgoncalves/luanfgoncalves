@@ -51,14 +51,12 @@
 
 #
 <!-- Meu contato -->
-<h2>Connect with me:</h2>
 <div align="center">
+  <h2>Connect with me:</h2>
   <a href="https://instagram.com/luanfgoncalves" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="50px" height="50px" target="_blank"></a>
   <a href ="mailto:luanfgoncalves@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" width="50px" height="50px" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luanfgoncalves/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png" width="50px" height="50px" target="_blank"></a> 
 </div>
-
-#
 
 <h3>Views and Followers</h3>
 <div align="center">
