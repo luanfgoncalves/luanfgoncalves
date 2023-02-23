@@ -7,7 +7,7 @@
 
 <h3>
 I'm a brazilian Full Stack Web Developer passionate about technology! Hello! I'm studying and experiencing with JS, CSS, HTML, Ract, Redux, Docker, SQL and NodeJS and several other thecnologies. 
-<br>
+<p> </p>
 I like to deal with people and understand their motivations, develop lasting solutions to problems, find ways to optimize and automate processes, give a beautiful aesthetic to what I produce and one of my greatest satisfactions is fixing and improving things.
 <h3>
 </div>
