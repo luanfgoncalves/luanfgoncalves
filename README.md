@@ -51,17 +51,20 @@
 
 #
 <!-- Meu contato -->
-# Connect with me:
+<h2>Connect with me:</h2>
 <div align="center">
   <a href="https://instagram.com/luanfgoncalves" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="50px" height="50px" target="_blank"></a>
   <a href ="mailto:luanfgoncalves@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" width="50px" height="50px" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luanfgoncalves/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png" width="50px" height="50px" target="_blank"></a> 
 </div>
 
-## ❤ Views and Followers
+#
+
+<h3>Views and Followers</h3>
 <div align="center">
 	<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=luanfgoncalves"></a>
 	<a href="https://github.com/luanfgoncalves?tab=followers"><img src="https://img.shields.io/github/followers/luanfgoncalves?label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
 
+#
 <!-- programação | desenvolvimento | development | dev | webdeveloper| webdev| html | css | javascript | JS | python | py | Typescript | ts | Linux | react | redux | context | contextApi | docker | docker-compose | sql | mysql | nodeJS | frontend | backend | fullstack | bilingual | home office | stackoverflow | jest | RTL | mocha | sinnon | chai | . -->
