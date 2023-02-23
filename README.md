@@ -5,11 +5,11 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5038/5038593.png" width="30px" height="30px">
 </h1>
 
-<h3>
+<h4>
 I'm a brazilian Full Stack Web Developer passionate about technology! Hello! I'm studying and experiencing with JS, CSS, HTML, Ract, Redux, Docker, SQL and NodeJS and several other thecnologies. 
 <p> </p>
 I like to deal with people and understand their motivations, develop lasting solutions to problems, find ways to optimize and automate processes, give a beautiful aesthetic to what I produce and one of my greatest satisfactions is fixing and improving things.
-<h3>
+</h4>
 </div>
 
 <!-- Minhas Tecnologias -->
