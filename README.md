@@ -1,9 +1,11 @@
 <!-- Introdução -->
 <div align="center">
-<h1>
-  Hi, I'm Luan Filipe.
+<div>
+
+# Hi, I'm Luan Filipe.
+
   <img src="https://cdn-icons-png.flaticon.com/512/5038/5038593.png" width="30px" height="30px">
-</h1>
+</div>
 
 ## I'm a brazilian Full Stack Web Developer passionate about technology!
 </div>
@@ -65,5 +67,4 @@
 	<a href="https://github.com/luanfgoncalves?tab=followers"><img src="https://img.shields.io/github/followers/luanfgoncalves?label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
 
-#
 <!-- programação | desenvolvimento | development | dev | webdeveloper| webdev| html | css | javascript | JS | python | py | Typescript | ts | Linux | react | redux | context | contextApi | docker | docker-compose | sql | mysql | nodeJS | frontend | backend | fullstack | bilingual | home office | stackoverflow | jest | RTL | mocha | sinnon | chai | . -->
