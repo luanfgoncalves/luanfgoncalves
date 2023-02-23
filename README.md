@@ -4,10 +4,9 @@
   Hi, I'm Luan Filipe.
   <img src="https://cdn-icons-png.flaticon.com/512/5038/5038593.png" width="30px" height="30px">
 </h1>
-
 <h2 align="center">I'm a brazilian Full Stack Web Developer passionate about technology!</h2>
 </div>
-#
+
 <!-- Minhas Tecnologias -->
 <div align="center">
 
