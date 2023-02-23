@@ -1,4 +1,5 @@
 <style>
+
   .imgs {
 	  height: 30px;
 	  width: 30px;
